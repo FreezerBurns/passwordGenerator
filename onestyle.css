@@ -1,0 +1,13 @@
+.content{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: lightpink;
+    padding:20px;
+    width: 100%;
+}
+#display{
+    width:100%
+}
+#MustBeWithin{
+    width:100%
+}
